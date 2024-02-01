@@ -42,7 +42,7 @@ function Hero() {
               <div>
                 <Link href='/contact' className='sm:w-fit px-6 py-3 rounded-full w-full mr-8 text-white mb-5 inline-block bg-gradient-to-r from-[#ff941b] to-[#ff3f4f]'>Hire Me</Link>
                 <Link href='/' className='px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-r from-[#ff941b] to-[#ff3f4f]  mt-3'>
-                  <span className='block bg-zinc-900 text-white hover:bg-white rounded-full px-5 py-2 '>Download now</span>
+                  <span className='block bg-zinc-900 text-white hover:bg-white hover:text-zinc-900 rounded-full px-5 py-2 '>Download now</span>
                   </Link>
               </div>
             
